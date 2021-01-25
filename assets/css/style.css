@@ -52,6 +52,18 @@ header nav ul li a {
     position: relative;
 }
 
+.hero-cta {
+    color: white;
+    font-style: italic;
+    text-align: right;
+    
+}
+
+.hero h2{
+    font-size: 55px;
+    color: #fce138;
+}
+
 .hero-form {
     color: #024e76;
     background-color: #fce138;
